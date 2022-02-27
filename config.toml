@@ -19,7 +19,7 @@ timeZone = "Africa/Cairo"
 
 [[menu.main]]
 name = "Android App"
-url = "/downloads/lazeez.apk"
+url = "https://play.google.com/store/apps/details?id=tech.lazeez.app.crm"
 
 [[menu.main]]
 name = "Web App"
